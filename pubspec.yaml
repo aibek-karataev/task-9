@@ -31,12 +31,12 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+  flutter_phoenix: ^1.1.0
   geocoding: ^2.0.5
   geolocator: ^9.0.2
   get: ^4.6.5
   http: ^0.13.5
   intl: ^0.18.0
-  restart_app: ^1.1.2
   sleek_circular_slider: ^2.0.1
 
 dev_dependencies:
