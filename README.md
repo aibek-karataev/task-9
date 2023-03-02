@@ -1,6 +1,6 @@
 # weather
-# This project is made using ready-made API.
-# https://openweathermap.org/
+## This project is made using openweather api
+## https://openweathermap.org/
 
 ## Getting Started
 
