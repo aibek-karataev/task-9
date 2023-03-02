@@ -1,6 +1,6 @@
 # weather
-
-A new Flutter project.
+# This project is made using ready-made API.
+# https://openweathermap.org/
 
 ## Getting Started
 
